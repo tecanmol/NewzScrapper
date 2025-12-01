@@ -37,7 +37,7 @@ A Python-based automated news scraper and AI-powered summarizer that fetches top
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/tecanmol-newzscrapper.git
+git clone https://github.com/tecanmol/NewzScrapper.git
 cd tecanmol-newzscrapper
 ```
 
